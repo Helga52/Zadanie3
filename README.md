@@ -1,5 +1,4 @@
 Я студент Нетологиии  
 Обучаюсь на курсе Тестирование ПО  
 
-![img](https://github.com/Helga52/Zadanie3/blob/main/images/2023-07-03%20225410.png)  
-
+![1547368057_27](https://github.com/Helga52/Zadanie3/assets/137534299/29a9f348-f1c3-4d5b-9b8b-e9a094414932)
